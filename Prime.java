@@ -6,7 +6,7 @@ class Prime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 //taking input
-        int n = sc.nextInt();
+        int n = 15;
         int c = 0;
 //checking prime 
         for (int i = 2; i <= Math.sqrt(n); i++) {
