@@ -14,6 +14,7 @@ class Prime {
                 c++;
             }
         }
+//printing output
         if (c == 0) {
             System.out.println("prime number");
         } else {
