@@ -1,7 +1,7 @@
 //requried libraries
 import java.util.Scanner;
 import java.lang.;
-
+//start of class
 class Prime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
