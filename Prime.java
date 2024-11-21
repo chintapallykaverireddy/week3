@@ -16,9 +16,9 @@ class Prime {
         }
 //printing output
         if (c == 0) {
-            System.out.println("prime number");
+            System.out.println(n+" prime number");
         } else {
-            System.out.println("Is not prime number");
+            System.out.println(n+" is not prime number");
         }
     }
 }
